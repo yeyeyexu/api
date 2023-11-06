@@ -1,6 +1,7 @@
 #include <vector>
 #include <string>
 #include <cstdint>
+#include "ezsms.h"
 
 int init() {
     return 0; 
